@@ -10,7 +10,7 @@ namespace ConsoleAppLines
     {
         static void Main(string[] args)
         {
-            string wordOne = "Eltsen";
+            string wordOne = "Eltsen"; //penis
             string wordTwo = "Nestle";
 
             int indexTwo = wordTwo.LastIndexOf("");    //нифига я догадался, как посчитать индекс последней буквы слова. Ох***ь
